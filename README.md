@@ -13,9 +13,9 @@
 
 - 📫 How to reach me **arkalmady@gmail.com**
 
-- 🌊 I love traveling to new places, playing tennis, weightlifting, hanging out with friends, and learning new things every day!
+- 🌊 I love **traveling to new places, playing tennis, weightlifting, hanging out with friends, and learning new things every day!**
 
-- ⚡ Fun fact **I love Bollywood-fusion dancing, especially Bhangra!**
+- ⚡ Fun fact **I'm on a competitive Bollywood-fusion dance team, with a passion for bhangra!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
