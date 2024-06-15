@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **anything!**
 
-- 📫 How to reach me **arkalmady@gmail.com**
+- 📫 Contact me at **arkalmady@gmail.com**
 
 - 🌊 I love **traveling to new places, playing tennis, weightlifting, hanging out with friends, and learning new things every day!**
 
