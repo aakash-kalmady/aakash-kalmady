@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aakash Kalmady</h1>
 <h3 align="center">A passionate individual focused on making the world a better place through robotics and coding.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aakash-kalmady" alt="aakash-kalmady" /></a> </p>
-
 - 🔭 I’m currently working on [Aakash's Personal Portfolio](https://aakashkalmady.com)
 
 - 🌱 I’m currently learning **JavaScript, React.js**
