@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Aakash Kalmady</h1>
 <h3 align="center">A passionate individual focused on making the world a better place through robotics and programming</h3>
 
-- 🔭 I’m currently working on my [Personal Webpage](https://aakashkalmady.dev) and the [Maryland Dhoom Website](https://aakashkalmady.dev](https://www.github.com/riantiwari/Dhoom)
+- 🔭 I’m currently working on my [Personal Webpage](https://aakashkalmady.dev) and the [Maryland Dhoom Website](https://www.github.com/riantiwari/Dhoom)
 
 - 🌱 I’m currently learning **React.js**, and **Backend Development**
 
