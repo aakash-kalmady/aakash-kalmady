@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on my [Personal Webpage](https://aakashkalmady.dev)
 
-- 🌱 I’m currently learning **JavaScript, React.js**
+- 🌱 I’m currently learning **React.js**, and **Backend Development**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
