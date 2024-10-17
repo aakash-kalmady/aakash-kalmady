@@ -1,11 +1,9 @@
 <h1 align="center">Hi there 👋, I'm Aakash Kalmady</h1>
 <h3 align="center">A passionate individual focused on making the world a better place through robotics and programming</h3>
 
-- 🔭 I’m currently working on my [Personal Webpage](https://aakashkalmady.dev) and the [Maryland Dhoom Website](https://www.github.com/riantiwari/Dhoom)
+- 🔭 I’m currently working on a project for [Booz Allen Hamilton]([https://aakashkalmady.dev](https://www.boozallen.com)) and the [Maryland Dhoom Website](https://www.github.com/riantiwari/Dhoom)
 
-- 🌱 I’m currently learning **React.js**, and **Backend Development**
-
-- 👯 I’m looking to collaborate on **Open Source Projects**
+- 🌱 I’m currently learning **Next.js**, **Tailwind**, and **Backend Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/aakash-kalmady](https://github.com/aakash-kalmady)
 
@@ -13,6 +11,6 @@
 
 - 📫 Contact me at **arkalmady@gmail.com**
 
-- 🌊 I love **traveling to new places, playing tennis, weightlifting, hanging out with friends, and learning new things every day!**
+- 🌊 I love **traveling, playing tennis, dancing, weightlifting, hanging out with friends, and learning new things!**
 
-- ⚡ Fun fact **I'm on a competitive Bollywood-fusion dance team, with a passion for bhangra!**
+- ⚡ Fun fact **I'm very passionate about Bhangra!**
