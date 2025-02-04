@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on a personal project and the [Maryland Dhoom Website](https://github.com/aakash-kalmady/maryland-dhoom-website)
 
-- 🌱 I’m currently learning **Next.js**, **Tailwind**, and **Backend Development**
+- 🌱 I’m currently learning **Next.js**, **Express.js**, **Databases**, and **Backend**
 
 - 👨‍💻 All of my projects are available at [https://github.com/aakash-kalmady](https://github.com/aakash-kalmady)
 
@@ -13,4 +13,4 @@
 
 - 🌊 I love **traveling, playing tennis, dancing, weightlifting, hanging out with friends, and learning new things!**
 
-- ⚡ Fun fact **I'm very passionate about Bhangra!**
+- ⚡ Fun fact **I'm on a Bollywood-fusion dance team and I'm very passionate about Bhangra!**
