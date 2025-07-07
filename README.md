@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Aakash Kalmady</h1>
-<h3 align="center">A passionate individual focused on making the world a better place through robotics and programming</h3>
+<h3 align="center">A passionate individual focused on making the world a better place through highly scalable and accessible softeare</h3>
 
 - 🔭 I’m currently working on classified personal projects
 
