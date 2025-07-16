@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on classified personal projects.
 
-- 🌱 I’m currently learning **AI/ML**, **Python APIs**, and **Java APIs**.
+- 🌱 I’m currently learning **AI/ML**, **Python**, and **REST APIs in Java and Python**.
 
 - 👨‍💻 All of my projects are available at [https://github.com/aakash-kalmady](https://github.com/aakash-kalmady).
 
